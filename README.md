@@ -1,7 +1,7 @@
 # QCSA Fall Fest 2023
 Welcome to QCSA's Fall Fest page for 2023! The Fall Fest is a collection of hackathons, challenges, workshops, and other events at different universities and supported by IBM Quantum.
 
-Our hackathon through the Fall Fest is open to all UCLA students and geared at beginners in quantum science. We will post prompts and project instructions at the event kickoff.
+Our hackathon through the Fall Fest is open to all UCLA students and geared at beginners in quantum science. We will post prompts and project instructions at the event kickoff, but all projects will require programming in Python with Qiskit, IBM's free python package for quantum programming.
 
 We will be running several introductory workshops leading up to the hackathon and providing additional resources for those just starting out. We will also be holding virtual office hours during the hackathon time for general questions on the basics of quantum computing, the hackathon prompts, and submission logistics. However, we will not be helping directly with code and we are not experts on Qiskit or quantum algorithms.
 
