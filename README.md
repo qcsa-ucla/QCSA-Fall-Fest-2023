@@ -16,6 +16,8 @@ We will be running several introductory workshops leading up to the hackathon an
 - Friday, October 27: Closing Event
 
 ## How to Sign Up
-Join our email list on our [website](https://qcsa.cqse.ucla.edu/) for information about our workshops, and sign up for the hackathon here.
+**You must be a UCLA student to sign up**
 
-We will not be matching teams this year, however if you are looking for a team and are willing to share some basic information and contact information, do that here by October 4. We will post that list and you're welcome to reach out to other students. We suggest teams of 2-4 students, but you're welcome to work on your own or with a team of up to 5.
+Join our email list on our [website](https://qcsa.cqse.ucla.edu/) for information about our workshops, and [sign up for the hackathon here](https://forms.gle/rPfTX54DZMVXfvSR7).
+
+We will not be matching teams this year, however if you are looking for a team and are willing to share some basic information and contact information, [do that here by October 4](https://forms.gle/FfHnCVXDtjjkqAWc7). We will post that list here and you're welcome to reach out to other students. We suggest teams of 2-4 students, but you're welcome to work on your own or with a team of up to 5.
