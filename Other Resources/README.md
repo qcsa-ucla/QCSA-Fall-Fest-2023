@@ -7,4 +7,4 @@ For learning about quantum computing and Qiskit, we've posted some resources in 
 - *Quantum Information*, Stephen Barnett: Goes through the more advanced quantum mechanical theory of quantum information, decoherence, and error correction/algorithms.
 
 ## IBM Provided Resources
-IBM has provided some Fall Fest resources, which we have also included in this folder.
+IBM has provided some Fall Fest resources, which we have also included in this folder. These will require some setup to use the autograder feature they've included, so read the instructions in the folder before trying to run the notebooks.
