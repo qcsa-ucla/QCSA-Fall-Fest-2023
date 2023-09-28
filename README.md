@@ -9,7 +9,7 @@ We will be running several introductory workshops leading up to the hackathon an
 - Tuesday, October 3: Introduction to Quantum Computing Workshop
 - Tuesday, October 10: Intro to Qiskit Workshop
 - Wednesday, October 11: Signup Deadline
-- Monday, October 16: Kickoff and Q&A
+- Tuesday, October 17: Kickoff and Q&A
 - Thursday, October 19: Office Hour
 - Monday, October 23: Office Hour
 - Tuesday, October 24: Submission Deadline
