@@ -11,6 +11,7 @@ We will be running several introductory workshops leading up to the hackathon an
 - Wednesday, October 11: Signup Deadline
 - Tuesday, October 17: Project Descriptions + Requirements Posted
 - Wednesday, October 18: Hackathon Kickoff + Q&A
+- Friday, October 20: Office Hour
 - Monday, October 23: Office Hour
 - Tuesday, October 24: Submission Deadline
 - Friday, October 27: Closing Event
